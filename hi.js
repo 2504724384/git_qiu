@@ -1,3 +1,3 @@
 function{
-    console("qiuqiu");
+    console.log("qiuqiu");
 }
